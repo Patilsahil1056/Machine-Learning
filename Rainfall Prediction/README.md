@@ -45,4 +45,4 @@ The residual plot was used to detect bias. A random distribution of points aroun
 ## 💻 How to Run
 1. **Clone the repo:**
    ```bash
-   git clone [https://github.com/yourusername/rainfall-prediction.git](https://github.com/yourusername/rainfall-prediction.git)
+   git clone [https://github.com/patilsahil1056/rainfall-prediction.git](https://github.com/patilsahil1056/rainfall-prediction.git)
